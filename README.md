@@ -1,4 +1,5 @@
 复刻羊了个羊三消玩法
+预览地址 https://lihuilai.github.io/match3/
 
 
 AI Coding过程记录，参考导出的对话历史文件cursor_.md
